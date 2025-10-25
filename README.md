@@ -12,3 +12,4 @@ RESTful API بسيط لإدارة الكتب باستخدام Flask، SQLite، �
 تثبيت المكتبات:
 ```bash
 pip install -r requirements.txt
+"# book-api" 
